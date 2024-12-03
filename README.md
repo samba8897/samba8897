@@ -90,8 +90,9 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samba8897&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%" style="margin-right: 2%;"/>
-  <img src="https://streak-stats.demolab.com/?user=samba8897" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=samba8897" alt="GitHub Streak" width="48%" style="height: auto;" />
 </p>
+
 
 
 

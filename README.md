@@ -18,23 +18,24 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/samba333" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://linkedin.com/in/samba333" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samba333" height="30" width="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://instagram.com/_samba3_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/_samba3_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_samba3_" height="30" width="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.hackerrank.com/sambasivarao3521" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://www.hackerrank.com/sambasivarao3521" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sambasivarao3521" height="30" width="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.leetcode.com/samba3" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://www.leetcode.com/samba3" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samba3" height="30" width="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/samba333/profile" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://auth.geeksforgeeks.org/user/samba333/profile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samba333/profile" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 

@@ -2,17 +2,11 @@
 <h3 align="center">Aspiring Full-Stack Developer | Problem Solver</h3>
 
 - 🔭 I’m currently working on [FreelanceFinder(Prolancer)](https://prolancer.netlify//.app/)
-
 - 🌱 I’m currently learning **Data Structures and Algorithms, Full Stack Development**
-
 - 👨‍💻 All of my projects are available at [https://samba8897.github.io/samba-portfolio/](https://samba8897.github.io/samba-portfolio/)
-
 - 💬 Ask me about **React, Full Stack Development, DSA (Data Structures and Algorithms)**
-
 - 📫 How to reach me **sambasivarao3521@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13q0JxAIwjXTInyLQJeoi_RoK58EJSGxr/view?usp=sharing](https://drive.google.com/file/d/13q0JxAIwjXTInyLQJeoi_RoK58EJSGxr/view?usp=sharing)
-
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/13q0JxAIwjXTInyLQJeoi_RoK58EJSGxr/view?usp=sharing)
 - ⚡ Fun fact **I’m always eager to solve complex problems and find creative solutions, whether it's in code or everyday life.**
 
 ---
@@ -36,52 +30,54 @@
   </a>
 </p>
 
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Programming Languages -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" style="margin-right: 10px;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="margin-right: 10px;"/>
   </a>
-
-  <!-- Frontend Technologies -->
+  
+  <br /><br />
+  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="margin-right: 10px;"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" style="margin-right: 10px;"/>
   </a>
 
-  <!-- Backend Technologies -->
+  <br /><br />
+  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" style="margin-right: 10px;"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express" style="margin-right: 10px;"/>
   </a>
 
-  <!-- Databases -->
+  <br /><br />
+  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="margin-right: 10px;"/>
   </a>
 
-  <!-- Tools -->
+  <br /><br />
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" style="margin-right: 10px;"/>
   </a>
 </p>
 
@@ -89,8 +85,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samba8897&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="60%" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samba8897&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="60%" style="margin-bottom: 20px;" />
   <img src="https://streak-stats.demolab.com/?user=samba8897" alt="GitHub Streak" width="60%" />
 </p>
-
-

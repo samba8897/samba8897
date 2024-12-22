@@ -18,26 +18,44 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/samba333" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samba333" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://instagram.com/_samba3_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_samba3_" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.hackerrank.com/sambasivarao3521" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sambasivarao3521" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.leetcode.com/samba3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samba3" height="30" width="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/samba333/profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samba333/profile" height="30" width="40" />
-  </a>
-</p>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/samba333" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        <br/>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/_samba3_" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+        <br/>Instagram
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/sambasivarao3521" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+        <br/>HackerRank
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.leetcode.com/samba3" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+        <br/>LeetCode
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/samba333/profile" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
+        <br/>GeeksForGeeks
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### **Programming Languages**
 
@@ -55,7 +73,7 @@
 
 ### **Backend**
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50px"/> <br/> NodeJS | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="50px"/> <br/> Express.js |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50px"/> <br/> NodeJS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50px"/> <br/> Express.js |
 |---|---|
 
 ---

@@ -41,90 +41,91 @@
 
 ### **Programming Languages**
 
-<div align="left">
-  <img alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <br/>C
-</div>
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <br/>C++
-</div>
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <br/>Java
-</div>
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <br/>JavaScript
-</div>
-
-<br/><br/>
+<p align="left">
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <br/>C
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <br/>C++
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <br/>Java
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <br/>JavaScript
+  </div>
+</p>
 
 ---
 
 ### **Frontend**
 
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <br/>React
-</div>
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <br/>HTML5
-</div>
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <br/>CSS3
-</div>
-
-<br/><br/>
+<p align="left">
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <br/>React
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <br/>HTML5
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <br/>CSS3
+  </div>
+</p>
 
 ---
 
 ### **Backend**
 
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <br/>NodeJS
-</div>
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="Express.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <br/>Express.js
-</div>
-
-<br/><br/>
+<p align="left">
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <br/>NodeJS
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="Express.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <br/>Express.js
+  </div>
+</p>
 
 ---
 
 ### **Database**
 
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <br/>MongoDB
-</div>
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <br/>MySQL
-</div>
-
-<br/><br/>
+<p align="left">
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <br/>MongoDB
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <br/>MySQL
+  </div>
+</p>
 
 ---
 
 ### **Tools**
 
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <br/>Git
-</div>
-<div align="left" style="display:inline-block; margin-right:20px;">
-  <img alt="Postman" width="50px" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
-  <br/>Postman
-</div>
-
-<br/><br/>
+<p align="left">
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <br/>Git
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img alt="Postman" width="50px" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
+    <br/>Postman
+  </div>
+</p>
 
 ---
+
 
 
 

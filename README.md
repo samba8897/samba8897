@@ -55,7 +55,7 @@
 
 ### **Backend**
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50px"/> <br/> NodeJS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50px"/> <br/> Express.js |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50px"/> <br/> NodeJS | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="50px"/> <br/> Express.js |
 |---|---|
 
 ---

@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sambasivarao</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Sambasivarao</h1>  
+<h3 align="center">Aspiring Full-Stack Developer | Problem Solver | Technology Enthusiast</h3>  
 
-- 🔭 I’m currently working on [FreelanceFinder(Prolancer)](https://prolancer.netlify//.app/)
+I'm a passionate developer dedicated to turning ideas into impactful digital solutions. With a solid foundation in **Full-Stack Development** and **Data Structures & Algorithms**, I strive to build applications that are both scalable and user-centric. My journey in tech is fueled by curiosity, innovation, and a drive to solve complex problems creatively.  
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Full Stack Development**
+📫 **Reach Me At**: [sambasivarao3521@gmail.com](mailto:sambasivarao3521@gmail.com)  
+📄 **My Resume**: [View Here](https://drive.google.com/file/d/13q0JxAIwjXTInyLQJeoi_RoK58EJSGxr/view?usp=sharing)  
 
-- 👨‍💻 All of my projects are available at [https://samba8897.github.io/samba-portfolio/](https://samba8897.github.io/samba-portfolio/)
-
-- 💬 Ask me about **React, Full Stack Development, DSA (Data Structures and Algorithms)**
-
-- 📫 How to reach me **sambasivarao3521@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13q0JxAIwjXTInyLQJeoi_RoK58EJSGxr/view?usp=sharing](https://drive.google.com/file/d/13q0JxAIwjXTInyLQJeoi_RoK58EJSGxr/view?usp=sharing)
-
-- ⚡ Fun fact **I’m always eager to solve complex problems and find creative solutions, whether it's in code or everyday life.**
 
 ---
 

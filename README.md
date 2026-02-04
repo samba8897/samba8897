@@ -1,38 +1,8 @@
 <h1 align="center">Hi, I'm Sambasivarao 👋</h1>
 
 <p align="center">
-Full-Stack Developer • Problem Solver • Builder of Scalable Web Applications
+Software Engineer • Full-Stack Builder • Strong CS Fundamentals
 </p>
-
----
-
-### 👨‍💻 About Me
-
-**Software Engineer** with experience building scalable, user-focused applications. Strong in **computer science fundamentals**, including data structures, algorithms, and system design, and comfortable owning features from design through production.
-
-I value **clean code**, **system thinking**, and **continuous improvement**.
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-</p>
-
-<p align="center">
-C • C++ • Java • JavaScript • React • Node.js • Express • MongoDB • MySQL • Git
-</p>
-
----
-
-### 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/chsambasivarao">
@@ -48,9 +18,84 @@ C • C++ • Java • JavaScript • React • Node.js • Express • MongoDB 
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+Software Engineer focused on building reliable, scalable web applications with a strong foundation in **Data Structures & Algorithms** and **core CS fundamentals**. I enjoy turning ambiguous problem statements into clean, maintainable implementations and shipping features end-to-end.
+
+**What I optimize for:** correctness, performance, readability, and a strong user experience.
+
+---
+
+## 🚀 Highlights
+
+- Built and shipped full-stack features from UI → API → database, emphasizing clean interfaces and maintainable code.
+- Strong DSA practice with consistent problem-solving on LeetCode (patterns: arrays/strings, hashing, two pointers, sliding window, trees/graphs, DP).
+- Comfortable collaborating in teams: writing clear PRs, reviewing code, and iterating quickly based on feedback.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** C, C++, Java, JavaScript  
+**Frontend:** React  
+**Backend:** Node.js, Express  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, REST APIs
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44"/>
+</p>
+
+---
+
+## 📌 Featured Work
+
+> Replace the placeholders with your best 2–4 repos. This section matters more than stats.
+
+- **Project 1 — <name>**: One-line description of what it does + who it’s for.  
+  `React • Node • MongoDB`  
+  - Key contribution/impact: <e.g., reduced load time by X%, improved workflow, added core feature>
+  - Engineering detail: <e.g., pagination, caching, background jobs, auth, rate limiting, CI>
+
+- **Project 2 — <name>**: One-line description.  
+  `React • Express • MySQL`  
+  - Key contribution/impact: <measurable result if possible>
+  - Engineering detail: <non-trivial feature or constraint you handled>
+
+- **Project 3 — <name>**: One-line description.  
+  `JavaScript • Node`  
+  - Key contribution/impact: <what changed because you built it>
+  - Engineering detail: <edge cases, performance, data modeling>
+
+---
+
+## 🧠 DSA Focus
+
+- **Core patterns:** two pointers, sliding window, prefix sums, hashing, recursion/backtracking, BFS/DFS, heaps, union-find, dynamic programming  
+- **What I practice:** writing clean solutions, analyzing time/space complexity, and handling edge cases
+
+---
+
+## 📈 Stats (optional)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samba8897&show_icons=true&hide_title=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samba8897&layout=compact" width="48%"/>
 </p>
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: https://linkedin.com/in/chsambasivarao  
+- LeetCode: https://www.leetcode.com/samba3  
+- Email: sambasivarao3521@gmail.com

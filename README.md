@@ -57,45 +57,10 @@ Software Engineer focused on building reliable, scalable web applications with a
 
 ---
 
-## 📌 Featured Work
-
-> Replace the placeholders with your best 2–4 repos. This section matters more than stats.
-
-- **Project 1 — <name>**: One-line description of what it does + who it’s for.  
-  `React • Node • MongoDB`  
-  - Key contribution/impact: <e.g., reduced load time by X%, improved workflow, added core feature>
-  - Engineering detail: <e.g., pagination, caching, background jobs, auth, rate limiting, CI>
-
-- **Project 2 — <name>**: One-line description.  
-  `React • Express • MySQL`  
-  - Key contribution/impact: <measurable result if possible>
-  - Engineering detail: <non-trivial feature or constraint you handled>
-
-- **Project 3 — <name>**: One-line description.  
-  `JavaScript • Node`  
-  - Key contribution/impact: <what changed because you built it>
-  - Engineering detail: <edge cases, performance, data modeling>
-
----
-
-## 🧠 DSA Focus
-
-- **Core patterns:** two pointers, sliding window, prefix sums, hashing, recursion/backtracking, BFS/DFS, heaps, union-find, dynamic programming  
-- **What I practice:** writing clean solutions, analyzing time/space complexity, and handling edge cases
-
----
-
-## 📈 Stats (optional)
+## 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samba8897&show_icons=true&hide_title=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samba8897&layout=compact" width="48%"/>
 </p>
 
----
-
-## 🤝 Connect
-
-- LinkedIn: https://linkedin.com/in/chsambasivarao  
-- LeetCode: https://www.leetcode.com/samba3  
-- Email: sambasivarao3521@gmail.com

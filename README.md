@@ -4,18 +4,6 @@
 Software Engineer • Full-Stack Builder • Strong CS Fundamentals
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/chsambasivarao">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.leetcode.com/samba3">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:sambasivarao3521@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -59,6 +47,15 @@ Software Engineer focused on building reliable, scalable web applications with a
 
 ## 🤝 Connect
 
-- LinkedIn: https://linkedin.com/in/chsambasivarao  
-- LeetCode: https://www.leetcode.com/samba3  
-- Email: sambasivarao3521@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/chsambasivarao">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.leetcode.com/samba3">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:sambasivarao3521@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+

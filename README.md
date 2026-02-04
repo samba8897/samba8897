@@ -36,7 +36,7 @@ C • C++ • Java • JavaScript • React • Node.js • Express • MongoDB 
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/samba333">
+  <a href="https://linkedin.com/in/chsambasivarao">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/samba3">

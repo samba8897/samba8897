@@ -8,8 +8,7 @@ Full-Stack Developer • Problem Solver • Builder of Scalable Web Applications
 
 ### 👨‍💻 About Me
 
-I’m a **Full-Stack Developer** focused on building clean, scalable, and user-centric web applications.  
-I enjoy solving real-world problems using modern JavaScript ecosystems and strong fundamentals in **Data Structures & Algorithms**.
+**Software Engineer** with experience building scalable, user-focused applications. Strong in **computer science fundamentals**, including data structures, algorithms, and system design, and comfortable owning features from design through production.
 
 I value **clean code**, **system thinking**, and **continuous improvement**.
 

@@ -57,10 +57,8 @@ Software Engineer focused on building reliable, scalable web applications with a
 
 ---
 
-## 📈 Stats
+## 🤝 Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samba8897&show_icons=true&hide_title=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samba8897&layout=compact" width="48%"/>
-</p>
-
+- LinkedIn: https://linkedin.com/in/chsambasivarao  
+- LeetCode: https://www.leetcode.com/samba3  
+- Email: sambasivarao3521@gmail.com

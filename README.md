@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sambasivarao 👋</h1>
 
 <p align="center">
-Software Engineer • Full-Stack Builder • Strong CS Fundamentals
+Software Engineer • Full-Stack Builder 
 </p>
 
 ---

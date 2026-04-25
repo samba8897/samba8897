@@ -8,7 +8,7 @@ Software Developer • Full-Stack Builder
 
 ## 👨‍💻 About Me
 
-Software Engineer focused on building reliable, scalable web applications with a strong foundation in **Data Structures & Algorithms** and **core CS fundamentals**. I focus on turning ambiguous problem statements into clean, maintainable implementations and shipping features end-to-end.
+Software Developer focused on building reliable, scalable web applications with a foundation in Data Structures & Algorithms and core CS fundamentals. I focus on turning ambiguous problem statements into clean, maintainable implementations and shipping features end-to-end.
 
 **What I optimize for:** correctness, performance, readability, and a strong user experience.
 
